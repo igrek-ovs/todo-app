@@ -1,0 +1,72 @@
+{
+  "task": {
+    "task_name": "Name",
+    "task_desc": "Description",
+    "task_date": "Due date",
+    "task_type": "Task type",
+    "task_freq": "Frequency",
+    "task_prog": "Progress",
+    "task_acc_goal": "Accumulating goal",
+    "task_completed": "Is completed",
+    "one_time": "ONE-TIME",
+    "reccuring": "RECCURING",
+    "accumulating": "ACCUMULATING",
+    "daily": "DAILY",
+    "monthly": "MONTHLY",
+    "yearly": "YEARLY"
+  },
+
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "register": "Register",
+    "dont_have_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "acc_confirm": "Account confirmation",
+    "code": "Code",
+    "confirm": "Confirm",
+    "send_code_again": "Send code again",
+    "code_sent": "Code sent again ({{ timer }}s)"
+  },
+
+  "main": {
+    "welcome": "Welcome, {{ email }}!",
+    "online": "Online",
+    "offline": "Offline",
+    "all": "All",
+    "active": "Active",
+    "completed": "Completed",
+    "search_task": "Search task",
+    "add_task": "Add task",
+    "edit_task": "Edit task",
+    "logout": "Logout"
+  },
+
+  "payment": {
+    "amount": "Amount",
+    "payment_prog": "Payment for progress",
+    "checkout": "Checkout",
+    "checkout_success": "Checkout success!",
+    "checkout_error": "Checkout failed!"
+  },
+
+  "messages": {
+    "checkout_succ_msg": "Thanks for you payment. That`s help us to improve out service.",
+    "checkout_err_msg": "Something went wrong. Check you credentials.",
+    "login_success_msg": "Login successful!",
+    "register_success_msg": "Register successful!",
+    "resend_code_msg": "Code sent! Check your email.",
+    "acc_success_msg": "Account confirmation successful!",
+    "new_task_msg": "New task created!",
+    "task_updated_msg": "Task updated!",
+    "task_deleted_msg": "Task deleted!",
+    "task_completed_msg": "Task {{ name }} completed!"
+  },
+
+  "to_home_page": "Go to home page",
+  "yes": "Yes",
+  "no": "No",
+  "add": "Add",
+  "save": "Save"
+}

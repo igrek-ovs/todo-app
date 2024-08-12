@@ -1,0 +1,72 @@
+{
+  "task": {
+    "task_name": "Назва",
+    "task_desc": "Опис",
+    "task_date": "Термін виконання",
+    "task_type": "Тип завдання",
+    "task_freq": "Частота",
+    "task_prog": "Прогрес",
+    "task_acc_goal": "Мета",
+    "task_completed": "Виконана",
+    "one_time": "ОДНОРАЗОВА",
+    "reccuring": "ПОВТОРЮВАНА",
+    "accumulating": "НАКОПИЧУЮЧА",
+    "daily": "ЩОДНЯ",
+    "monthly": "ЩОМІСЯЧНО",
+    "yearly": "ЩОРІЧНО"
+  },
+
+  "auth": {
+    "email": "Ел. адреса",
+    "password": "Пароль",
+    "login": "Логін",
+    "register": "Зареєструватися",
+    "dont_have_account": "Немає облікового запису?",
+    "have_account": "Вже є аккаунт?",
+    "acc_confirm": "Підтвердження аккаунту",
+    "code": "Код",
+    "confirm": "Підтвердити",
+    "send_code_again": "Надіслати код знову",
+    "code_sent": "Код надісланий знову ({{ timer }}с)"
+  },
+
+  "main": {
+    "welcome": "Ласкаво просимо, {{ email }}!",
+    "online": "Онлайн",
+    "offline": "Офлайн",
+    "all": "Всі",
+    "active": "Активні",
+    "completed": "Виконані",
+    "search_task": "Пошук завдання",
+    "add_task": "Додати завдання",
+    "edit_task": "Змінити завдання",
+    "logout": "Вийти"
+  },
+
+  "payment": {
+    "amount": "Кількість",
+    "payment_prog": "Оплата за прогрес",
+    "checkout": "Оплатити",
+    "checkout_success": "Оплата успішна!",
+    "checkout_error": "Оплата провалилася!"
+  },
+
+  "messages": {
+    "checkout_succ_msg": "Дякуємо за оплату. Це допоможе нам покращити наш сервіс.",
+    "checkout_err_msg": "Щось пішло не так. Перевірте облікові дані.",
+    "login_success_msg": "Вхід успішний!",
+    "register_success_msg": "Реєстрація успішна!",
+    "resend_code_msg": "Код надіслано! Перевірте свою ел. пошту.",
+    "acc_success_msg": "Акаунт підтверджено!",
+    "new_task_msg": "Нове завдання створено!",
+    "task_updated_msg": "Завдання оновлено!",
+    "task_deleted_msg": "Завдання видалено!",
+    "task_completed_msg": "Завдання {{ name }} виконано!"
+  },
+
+  "to_home_page": "Перейти на головну сторінку",
+  "yes": "Так",
+  "no": "Ні",
+  "add": "Додати",
+  "save": "Зберегти"
+}
